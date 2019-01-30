@@ -158,7 +158,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="hSw-Dj-Crb" firstAttribute="centerY" secondItem="usf-qa-krz" secondAttribute="centerY" id="K1A-px-awY"/>
+                            <constraint firstItem="hSw-Dj-Crb" firstAttribute="centerY" secondItem="usf-qa-krz" secondAttribute="centerY" priority="750" id="K1A-px-awY"/>
                             <constraint firstItem="usf-qa-krz" firstAttribute="centerX" secondItem="hSw-Dj-Crb" secondAttribute="centerX" id="NYr-EU-JXi"/>
                             <constraint firstItem="usf-qa-krz" firstAttribute="top" relation="greaterThanOrEqual" secondItem="hSw-Dj-Crb" secondAttribute="top" constant="15" id="etL-QR-lJo"/>
                             <constraint firstItem="usf-qa-krz" firstAttribute="leading" secondItem="hSw-Dj-Crb" secondAttribute="leading" constant="15" id="j2G-hS-d8Q"/>
