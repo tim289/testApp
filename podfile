@@ -1,0 +1,15 @@
+
+platform :ios, '9.0'
+use_frameworks!
+
+def commonPods
+    
+    pod 'Typist'
+    pod 'SkyFloatingLabelTextField', '~> 3.0'
+    
+    pod 'Alamofire'
+end
+
+target 'TestApp' do
+    commonPods
+end
